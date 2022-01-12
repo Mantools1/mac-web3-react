@@ -1,1 +1,1 @@
-# @web3-react/frame
+# @mac-web3-react/frame

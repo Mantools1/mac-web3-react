@@ -1,1 +1,1 @@
-# @web3-react/store
+# @mac-web3-react/store

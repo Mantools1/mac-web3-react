@@ -1,5 +1,5 @@
-import { createWeb3ReactStoreAndActions } from '@web3-react/store'
-import type { Actions, Web3ReactStore } from '@web3-react/types'
+wimport { createWeb3ReactStoreAndActions } from '@mac-web3-react/store'
+import type { Actions, Web3ReactStore } from '@mac-web3-react/types'
 import { WalletLink } from '.'
 import { MockEIP1193Provider } from '../../eip1193/src/index.spec'
 

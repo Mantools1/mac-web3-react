@@ -1,1 +1,1 @@
-# @web3-react/eip1193
+# @mac-web3-react/eip1193

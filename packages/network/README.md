@@ -1,1 +1,1 @@
-# @web3-react/network
+# @mac-web3-react/network

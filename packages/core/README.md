@@ -1,1 +1,1 @@
-# @web3-react/core
+# @mac-web3-react/core

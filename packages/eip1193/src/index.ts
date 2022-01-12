@@ -1,5 +1,5 @@
-import type { Actions, Provider, ProviderConnectInfo, ProviderRpcError } from '@web3-react/types'
-import { Connector } from '@web3-react/types'
+import type { Actions, Provider, ProviderConnectInfo, ProviderRpcError } from '@mac-web3-react/types'
+import { Connector } from '@mac-web3-react/types'
 
 function parseChainId(chainId: string) {
   return Number.parseInt(chainId, 16)

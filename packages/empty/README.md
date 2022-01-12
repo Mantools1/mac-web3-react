@@ -1,1 +1,1 @@
-# @web3-react/empty
+# @mac-web3-react/empty

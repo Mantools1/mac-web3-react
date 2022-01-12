@@ -1,4 +1,4 @@
-import type { AddEthereumChainParameter } from '@web3-react/metamask'
+import type { AddEthereumChainParameter } from '@mac-web3-react/metamask'
 
 const ETH: AddEthereumChainParameter['nativeCurrency'] = {
   name: 'Ether',

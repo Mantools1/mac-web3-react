@@ -1,5 +1,5 @@
 {
-  "name": "@web3-react/walletconnect",
+  "name": "@mac-web3-react/walletconnect",
   "keywords": [
     "web3-react",
     "walletconnect"
@@ -29,12 +29,12 @@
     "start": "tsc --watch"
   },
   "dependencies": {
-    "@web3-react/types": "^8.0.0-beta.0"
+    "@mac-web3-react/types": "^8.0.0-beta.0"
   },
   "peerDependencies": {
     "@walletconnect/ethereum-provider": "^1.7.1"
   },
   "devDependencies": {
-    "@web3-react/store": "^8.0.0-beta.0"
+    "@mac-web3-react/store": "^8.0.0-beta.0"
   }
 }

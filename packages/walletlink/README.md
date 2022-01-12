@@ -1,1 +1,1 @@
-# @web3-react/walletlink
+# @mac-web3-react/walletlink

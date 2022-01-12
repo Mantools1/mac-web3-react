@@ -1,5 +1,5 @@
-import type { Actions, ProviderConnectInfo, ProviderRpcError } from '@web3-react/types'
-import { Connector } from '@web3-react/types'
+import type { Actions, ProviderConnectInfo, ProviderRpcError } from '@mac-web3-react/types'
+import { Connector } from '@mac-web3-react/types'
 import type { WalletLink as WalletLinkInstance } from 'walletlink'
 import type { WalletLinkOptions } from 'walletlink/dist/WalletLink'
 
