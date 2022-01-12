@@ -1,8 +1,8 @@
-# web3-react (beta)
+# mac-web3-react (beta)
 
-[![CI](https://github.com/NoahZinsmeister/web3-react/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/NoahZinsmeister/web3-react/actions/workflows/CI.yml)
+[![CI](https://github.com/ma-c-kik/mac-web3-react/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/ma-c-kik/mac-web3-react/actions/workflows/CI.yml)
 
-## [Example](https://web3-react-mu.vercel.app/)
+## [Example](https://mac-web3-react-mu.vercel.app/)
 
 ## Packages
 

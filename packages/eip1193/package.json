@@ -4,9 +4,9 @@
     "web3-react",
     "eip1193"
   ],
-  "author": "Noah Zinsmeister <noahwz@gmail.com>",
+  "author": "ma-c-kik <mackik60@gmail.com>",
   "license": "GPL-3.0-or-later",
-  "repository": "github:NoahZinsmeister/web3-react",
+  "repository": "github:ma-c-kik/mac-web3-react",
   "publishConfig": {
     "access": "public"
   },
