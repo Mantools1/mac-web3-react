@@ -1,11 +1,14 @@
 {
-  "name": "@mac-web3-react/core",
+  "name": "mac-web3-react-core",
   "keywords": [
     "web3-react"
   ],
   "author": "Ma C <mackik60@gmail.com>",
   "license": "GPL-3.0-or-later",
-  "repository": "github:ma-c-kik/mac-web3-react",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ma-c-kik/mac-web3-react.git"
+  },
   "publishConfig": {
     "access": "public"
   },
@@ -35,5 +38,10 @@
   },
   "peerDependencies": {
     "react": ">=16.8"
-  }
+  },
+  "description": "mac-web3-react/core",
+  "bugs": {
+    "url": "https://github.com/ma-c-kik/mac-web3-react/issues"
+  },
+  "homepage": "https://github.com/ma-c-kik/mac-web3-react#readme"
 }
