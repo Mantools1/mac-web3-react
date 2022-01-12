@@ -1,5 +1,5 @@
-import type { Actions, Provider, ProviderConnectInfo, ProviderRpcError } from '@mac-web3-react/types'
-import { Connector } from '@mac-web3-react/types'
+import type { Actions, Provider, ProviderConnectInfo, ProviderRpcError } from 'mac-web3-react-types'
+import { Connector } from 'mac-web3-react-types'
 
 export class NoFrameError extends Error {
   public constructor() {

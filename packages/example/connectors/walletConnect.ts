@@ -1,5 +1,5 @@
-import { initializeConnector } from '@mac-web3-react/core'
-import { WalletConnect } from '@mac-web3-react/walletconnect'
+import { initializeConnector } from 'mac-web3-react-core'
+import { WalletConnect } from 'mac-web3-react-walletconnect'
 import { URLS } from '../chains'
 
 export const [walletConnect, hooks] = initializeConnector<WalletConnect>(

@@ -1,1 +1,1 @@
-# @mac-web3-react/metamask
+# mac-web3-react-metamask

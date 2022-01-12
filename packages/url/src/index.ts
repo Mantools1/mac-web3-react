@@ -1,7 +1,7 @@
 import type { Eip1193Bridge } from '@ethersproject/experimental'
 import type { ConnectionInfo } from '@ethersproject/web'
-import type { Actions } from '@mac-web3-react/types'
-import { Connector } from '@mac-web3-react/types'
+import type { Actions } from 'mac-web3-react-types'
+import { Connector } from 'mac-web3-react-types'
 
 type url = string | ConnectionInfo
 

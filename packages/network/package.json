@@ -1,5 +1,5 @@
 {
-  "name": "@mac-web3-react/network",
+  "name": "mac-web3-react-network",
   "keywords": [
     "web3-react"
   ],
@@ -30,9 +30,9 @@
   "dependencies": {
     "@ethersproject/experimental": "^5.5.0",
     "@ethersproject/providers": "^5.5.1",
-    "@mac-web3-react/types": "^8.0.0-beta.0"
+    "mac-web3-react-types": "^8.0.0-beta.0"
   },
   "devDependencies": {
-    "@mac-web3-react/store": "^8.0.0-beta.0"
+    "mac-web3-react-store": "^8.0.0-beta.0"
   }
 }

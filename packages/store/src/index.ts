@@ -1,5 +1,5 @@
 import { getAddress } from '@ethersproject/address'
-import type { Actions, Web3ReactState, Web3ReactStateUpdate, Web3ReactStore } from '@mac-web3-react/types'
+import type { Actions, Web3ReactState, Web3ReactStateUpdate, Web3ReactStore } from 'mac-web3-react-types'
 import create from 'zustand/vanilla'
 
 function validateChainId(chainId: number): void {

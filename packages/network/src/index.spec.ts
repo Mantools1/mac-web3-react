@@ -1,5 +1,5 @@
-import { createWeb3ReactStoreAndActions } from '@mac-web3-react/store'
-import type { Actions, Web3ReactStore } from '@mac-web3-react/types'
+import { createWeb3ReactStoreAndActions } from 'mac-web3-react-store'
+import type { Actions, Web3ReactStore } from 'mac-web3-react-types'
 import { MockEip1193Bridge } from '../../url/src/index.spec'
 import { Network } from './'
 

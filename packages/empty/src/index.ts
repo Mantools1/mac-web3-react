@@ -1,4 +1,4 @@
-import { Connector } from '@mac-web3-react/types'
+import { Connector } from 'mac-web3-react-types'
 
 class Empty extends Connector {
   provider: undefined

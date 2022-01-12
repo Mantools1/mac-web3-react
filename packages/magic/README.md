@@ -1,1 +1,1 @@
-# @mac-web3-react/magic
+# mac-web3-react-magic

@@ -1,6 +1,6 @@
 import { act, renderHook } from '@testing-library/react-hooks'
-import type { Actions } from '@mac-web3-react/types'
-import { Connector } from '@mac-web3-react/types'
+import type { Actions } from 'mac-web3-react-types'
+import { Connector } from 'mac-web3-react-types'
 import { initializeConnector, Web3ReactHooks } from '.'
 
 class MockConnector extends Connector {

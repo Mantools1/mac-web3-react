@@ -1,1 +1,1 @@
-# @mac-web3-react/types
+# mac-web3-react-types

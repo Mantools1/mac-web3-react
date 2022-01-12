@@ -1,7 +1,7 @@
 import { Eip1193Bridge } from '@ethersproject/experimental'
 import { Web3Provider } from '@ethersproject/providers'
-import { createWeb3ReactStoreAndActions } from '@mac-web3-react/store'
-import type { Actions, ProviderRpcError, RequestArguments, Web3ReactStore } from '@mac-web3-react/types'
+import { createWeb3ReactStoreAndActions } from 'mac-web3-react-store'
+import type { Actions, ProviderRpcError, RequestArguments, Web3ReactStore } from 'mac-web3-react-types'
 import { EventEmitter } from 'node:events'
 import { EIP1193 } from '.'
 

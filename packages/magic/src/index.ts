@@ -1,6 +1,6 @@
 import type { ExternalProvider } from '@ethersproject/providers'
-import type { Actions } from '@mac-web3-react/types'
-import { Connector } from '@mac-web3-react/types'
+import type { Actions } from 'mac-web3-react-types'
+import { Connector } from 'mac-web3-react-types'
 import type {
   LoginWithMagicLinkConfiguration,
   Magic as MagicInstance,

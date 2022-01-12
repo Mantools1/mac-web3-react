@@ -32,8 +32,8 @@
   },
   "dependencies": {
     "@ethersproject/providers": "^5.5.1",
-    "@mac-web3-react/store": "^8.0.0-beta.0",
-    "@mac-web3-react/types": "^8.0.0-beta.0",
+    "mac-web3-react-store": "^8.0.0-beta.0",
+    "mac-web3-react-types": "^8.0.0-beta.0",
     "zustand": "^4.0.0-beta.0"
   },
   "peerDependencies": {

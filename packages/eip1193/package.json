@@ -1,5 +1,5 @@
 {
-  "name": "@mac-web3-react/eip1193",
+  "name": "mac-web3-react-eip1193",
   "keywords": [
     "web3-react",
     "eip1193"
@@ -29,11 +29,11 @@
     "start": "tsc --watch"
   },
   "dependencies": {
-    "@mac-web3-react/types": "^8.0.0-beta.0"
+    "mac-web3-react-types": "^8.0.0-beta.0"
   },
   "devDependencies": {
     "@ethersproject/experimental": "^5.5.0",
     "@ethersproject/providers": "^5.5.1",
-    "@mac-web3-react/store": "^8.0.0-beta.0"
+    "mac-web3-react-store": "^8.0.0-beta.0"
   }
 }

@@ -1,1 +1,1 @@
-# @mac-web3-react/walletconnect
+# mac-web3-react-walletconnect
