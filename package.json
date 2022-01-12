@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "web3-react",
+  "name": "mac-web3-react",
   "engines": {
     "node": "^14 || ^16"
   },
